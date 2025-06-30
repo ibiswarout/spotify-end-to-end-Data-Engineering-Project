@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data engineering pipeline built on AWS t
 ![image](https://github.com/user-attachments/assets/0f2afab5-7417-4fbe-9070-efb0d16627d1)
 
 
-**High-Level Flow:**
+## **High-Level Flow:**
 
 **1. Extract:**
 
