@@ -29,7 +29,7 @@ This project demonstrates an end-to-end data engineering pipeline built on AWS t
 --> Data is made queryable using Amazon Athena for ad-hoc SQL-based analysis.
 
 **🚀 Features**
-✅ Serverless data extraction from the Spotify API
+✅ Serverless data extraction from the Spotify API\n
 ✅ Event-driven architecture using EventBridge for automation
 ✅ Secure data lake on Amazon S3 with raw and curated zones
 ✅ Scalable data cataloging and schema discovery with AWS Glue
